@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **Cloud with AWS and AZURE**
 - 
 
--  👨‍💻 Know more about me  [https://github.com/Temgire](https://temgire.github.io/Dinesh_Portfolio/)
+-  👨‍💻 Know more about me  [https://github.com/Dhiraj093328)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Dhiraj093328)
 
