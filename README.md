@@ -1,11 +1,12 @@
-<h1 align="center">Hi 👋, I'm Temgire Dinesh What's up</h1>
-<h3 align="center">A passionate MERN Developer and Competitive programmer from India.</h3>
+<h1 align="center">Hi 👋, I'm Dhiraj Waghmare What's up</h1>
+<h3 align="center">A passionate MERN,Web Developer and Competitive programmer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=temgire&label=Profile%20views&color=0e75b6&style=flat" alt="temgire" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=temgire" alt="temgire" /></a> </p>
 
 - 🌱 I’m currently learning **Cloud with AWS and AZURE**
+- 
 
 -  👨‍💻 Know more about me  [https://github.com/Temgire](https://temgire.github.io/Dinesh_Portfolio/)
 
@@ -13,7 +14,7 @@
 
 - 💬 You can Ask me about **MERN and DSA with C++**
 
-- 📫 How to reach me **temgiredinesh2003@gmail.com**
+- 📫 How to reach me **Dhirajbabsahebwaghmare@gmail.com**
 
 - ⚡ My Hobbies are **Gaming and Anime**
 # 💻 Tech Stack
@@ -23,9 +24,7 @@
 [![HTML](https://skillicons.dev/icons?i=html&perline=3)](https://skillicons.dev)
 [![CSS](https://skillicons.dev/icons?i=css&perline=3)](https://skillicons.dev)
 [![Javascript](https://skillicons.dev/icons?i=javascript&perline=3)](https://skillicons.dev)
-[![React](https://skillicons.dev/icons?i=react&perline=3)](https://skillicons.dev)
-[![NextJs](https://skillicons.dev/icons?i=nextjs&perline=3)](https://skillicons.dev)
-[![Redux](https://skillicons.dev/icons?i=redux&perline=3)](https://skillicons.dev)
+[![NodeJs](https://skillicons.dev/icons?i=nextjs&perline=3)](https://skillicons.dev)
 [![Bootstrap](https://skillicons.dev/icons?i=bootstrap&perline=3)](https://skillicons.dev)
 
 ## Backend 🤕
