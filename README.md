@@ -48,17 +48,17 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=temgire&show_icons=true&locale=en&layout=compact" alt="temgire" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dhiraj&show_icons=true&locale=en&layout=compact" alt="Dhiraj" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=temgire&show_icons=true&locale=en&layout=compact" alt="temgire" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dhiraj&show_icons=true&locale=en&layout=compact" alt="Dhiraj" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=temgire&show_icons=true&locale=en&layout=compact" alt="temgire" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dhiraj&show_icons=true&locale=en&layout=compact" alt="Dhiraj" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=temgire&show_icons=true&locale=en&layout=compact" alt="temgire" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dhiraj&show_icons=true&locale=en&layout=compact" alt="Dhiraj" /></p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=temgire&show_icons=true&locale=en&layout=compact" alt="temgire" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dhiraj&show_icons=true&locale=en&layout=compact" alt="Dhiraj" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=temgire&show_icons=true&locale=en" alt="temgire" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dhiraj&show_icons=true&locale=en" alt="Dhiraj" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=temgire&" alt="temgire" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhiraj&" alt="Dhiraj" /></p>
