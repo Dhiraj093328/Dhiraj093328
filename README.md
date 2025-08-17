@@ -10,9 +10,9 @@
 
 -  👨‍💻 Know more about me  [https://github.com/Temgire](https://temgire.github.io/Dinesh_Portfolio/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Temgire](https://github.com/Temgire)
+- 👨‍💻 All of my projects are available at [https://github.com/Dhiraj093328)
 
-- 💬 You can Ask me about **MERN and DSA with C++**
+- 💬 You can Ask me about **MERN and c programming**
 
 - 📫 How to reach me **Dhirajbabsahebwaghmare@gmail.com**
 
@@ -30,12 +30,10 @@
 ## Backend 🤕
 
 [![NodeJs](https://skillicons.dev/icons?i=nodejs&perline=3)](https://skillicons.dev)
-[![ExpressJs](https://skillicons.dev/icons?i=express&perline=3)](https://skillicons.dev)
 [![MongoDb](https://skillicons.dev/icons?i=mongodb&perline=3)](https://skillicons.dev)
 [![MySQl](https://skillicons.dev/icons?i=mysql&perline=3)](https://skillicons.dev)
-[![php](https://skillicons.dev/icons?i=php&perline=3)](https://skillicons.dev)
 [![c](https://skillicons.dev/icons?i=c&perline=3)](https://skillicons.dev)
-[![java](https://skillicons.dev/icons?i=java&perline=3)](https://skillicons.dev)[![python](https://skillicons.dev/icons?i=python&perline=3)](https://skillicons.dev)
+[![python](https://skillicons.dev/icons?i=python&perline=3)](https://skillicons.dev)
 
 ## Others
 
