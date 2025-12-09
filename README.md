@@ -1,17 +1,40 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hey+There!+%F0%9F%91%8B+I'm+Dhiraj+Waghmare;Computer+Science+Engineer+%F0%9F%92%BB;Full+Stack+Developer+%F0%9F%9A%80;AI%2FML+Enthusiast+%F0%9F%A4%96;Open+Source+Contributor+%E2%9C%A8" alt="Typing SVG" />
-</div>
-
-<div align="center">
   
+  <!-- Animated Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Dhiraj%20Waghmare&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" />
+  
+  <!-- Animated Typing Text -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hey+There!+%F0%9F%91%8B+I'm+Dhiraj+Waghmare;Computer+Science+Engineer+%F0%9F%92%BB;Full+Stack+Developer+%F0%9F%9A%80;AI%2FML+Enthusiast+%F0%9F%A4%96;MERN+Stack+Developer+%F0%9F%94%A5;Problem+Solver+%E2%9C%A8;Open+Source+Contributor+%F0%9F%8C%9F" alt="Typing SVG" />
+  
+  <br/>
+  <br/>
+  
+  <!-- Social Badges -->
   [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://dhiraj093328.github.io/My-Portfolio/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhiraj-waghmare-36b8a3264/)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dhiraj093328)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhirajbabasahebwaghmare@gmail.com)
   
+  <br/>
+  
   ![Profile Views](https://komarev.com/ghpvc/?username=Dhiraj093328&label=Profile%20Views&color=blueviolet&style=for-the-badge)
+  ![GitHub Followers](https://img.shields.io/github/followers/Dhiraj093328?label=Followers&style=for-the-badge&color=success)
+  ![GitHub Stars](https://img.shields.io/github/stars/Dhiraj093328?label=Stars&style=for-the-badge&color=yellow)
   
 </div>
+
+<br/>
+
+<!-- GitHub Trophies Section -->
+<div align="center">
+  
+  ## 🏆 GitHub Trophies & Achievements
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=Dhiraj093328&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" width="100%"/>
+  
+</div>
+
+<br/>
 
 ---
 
@@ -172,26 +195,38 @@ A responsive portfolio showcasing my skills, projects, and professional journey.
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dhiraj093328&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF&count_private=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhiraj093328&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF&langs_count=8" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Dhiraj093328&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhiraj093328&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF&langs_count=10" alt="Top Languages" height="180"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhiraj093328&theme=radical&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=FF6B6B&currStreakLabel=FFFFFF" alt="GitHub Streak" width="700"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhiraj093328&theme=radical&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=FF6B6B&currStreakLabel=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF" alt="GitHub Streak" width="700"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dhiraj093328&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" width="900"/>
+  
+  ### 📊 Detailed GitHub Analytics
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dhiraj093328&theme=radical" alt="Profile Summary" width="100%"/>
+  
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhiraj093328&custom_title=Dhiraj's%20Contribution%20Graph&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area_color=A855F7&area=true&hide_border=true" alt="Contribution Graph" width="900"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dhiraj093328&theme=radical" alt="Repos Per Language" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dhiraj093328&theme=radical" alt="Most Commit Language" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dhiraj093328&theme=radical" alt="Stats" width="32%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhiraj093328&custom_title=Dhiraj's%20Contribution%20Graph&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area_color=A855F7&area=true&hide_border=true" alt="Contribution Graph" width="100%"/>
 </div>
 
 ---
@@ -372,17 +407,8 @@ print("Always learning, always growing! 🚀")
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dhiraj093328&theme=radical" alt="Profile Summary" width="900"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dhiraj093328&theme=radical" alt="Repos Per Language" width="400"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dhiraj093328&theme=radical" alt="Most Commit Language" width="400"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dhiraj093328&theme=radical" alt="Stats" width="400"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dhiraj093328&theme=radical" alt="Productive Time" width="400"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dhiraj093328&theme=radical&utcOffset=5.5" alt="Productive Time" width="49%"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=Dhiraj093328&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repos" width="49%"/>
 </div>
 
 ---
